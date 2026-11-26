@@ -13,8 +13,7 @@ Deekin помогает мастерам настольных ролевых и�
 
 **Проект готовится к запуску.** О старте расскажем в Telegram.
 
-<!-- Добавь реальные ссылки перед публикацией. -->
-<!-- [Сайт Deekin](URL_ЛЕНДИНГА) · [Telegram](URL_КАНАЛА) -->
+[Сайт Deekin](https://deekin.org/start-soon) · [Telegram](https://t.me/DeekinDnD)
 
 <h2 align="center">Почему Deekin?</h2>
 
