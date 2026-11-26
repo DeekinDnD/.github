@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="259" height="86" viewBox="64 30 259 86" role="img" aria-labelledby="title">
+  <title id="title">Deekin</title>
+  <defs>
+    <linearGradient id="gold" x1="80" y1="100" x2="129" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7e481f"/><stop offset=".16" stop-color="#de9b51"/><stop offset=".39" stop-color="#a36428"/><stop offset=".61" stop-color="#e0a053"/><stop offset=".87" stop-color="#f0c58c"/><stop offset="1" stop-color="#ffe1ab"/>
+    </linearGradient>
+    <linearGradient id="rim" x1="84" y1="48" x2="89" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#94602e"/><stop offset=".58" stop-color="#ffbd65"/><stop offset="1" stop-color="#94632f"/>
+    </linearGradient>
+    <radialGradient id="haze"><stop stop-color="#ffa53f" stop-opacity=".62"/><stop offset=".34" stop-color="#ff9c36" stop-opacity=".37"/><stop offset=".69" stop-color="#ff9437" stop-opacity=".095"/><stop offset="1" stop-color="#ff9030" stop-opacity="0"/></radialGradient>
+    <radialGradient id="pool"><stop stop-color="#ffdd9c" stop-opacity=".9"/><stop offset=".24" stop-color="#ffb651" stop-opacity=".65"/><stop offset=".6" stop-color="#f1993e" stop-opacity=".24"/><stop offset="1" stop-color="#e48a2e" stop-opacity="0"/></radialGradient>
+    <linearGradient id="door" x1="102" y1="84" x2="113" y2="84" gradientUnits="userSpaceOnUse"><stop stop-color="#ffbd63"/><stop offset=".23" stop-color="#ffe4a9"/><stop offset=".5" stop-color="#ffe3a5"/><stop offset="1" stop-color="#ffc076"/></linearGradient>
+    <linearGradient id="sill"><stop stop-color="#af6528" stop-opacity="0"/><stop offset=".3" stop-color="#cf873b"/><stop offset=".53" stop-color="#ffde92"/><stop offset=".72" stop-color="#eaa653"/><stop offset="1" stop-color="#a35f29" stop-opacity="0"/></linearGradient>
+    <linearGradient id="ivory" x2=".12" y2="1"><stop stop-color="#18232D"/><stop offset=".52" stop-color="#10202B"/><stop offset="1" stop-color="#0B151E"/></linearGradient>
+  </defs>
+  <ellipse cx="107.5" cy="83.6" rx="23.5" ry="28" fill="url(#haze)"/>
+  <path fill="url(#gold)" fill-rule="evenodd" d="M79.2 46.44H106.74C123.79 46.44 136.66 58.08 136.66 74.3C136.66 85.49 130.9 94.39 121.4 99.23H79.35V98.83C83.66 98.53 85.05 98.03 85.05 94.83V51.1C85.05 48.16 83.9 47.27 79.2 46.86ZM87.32 48.81V94.99C87.32 97.58 88.26 98.35 91.29 98.35H118.38C126.44 94.46 131.24 86.4 131.24 76.31C131.24 62.11 120.66 50.59 104.94 48.83Z"/>
+  <path fill="url(#rim)" d="M85.08 49.14Q86.2 50.02 87.32 48.8V96.01L85.1 97.5Z"/>
+  <ellipse cx="107.8" cy="98.8" rx="20.9" ry="5.4" fill="url(#pool)"/>
+  <path fill="url(#door)" d="M102.63 98.67V74.57C102.63 71.75 104.78 69.42 107.56 69.42S112.53 71.74 112.53 74.57V98.67Z"/>
+  <path fill="url(#sill)" d="M74.64 99.01Q105.05 97.8 140.34 99.09Q111.54 99.97 74.64 99.48Z"/>
+  <g fill="url(#ivory)">
+    <path fill-rule="evenodd" d="M156.43 57.72H169.9C182.55 57.72 189.49 63.3 189.49 72.61C189.49 82.11 182.17 88.46 170.92 88.46H156.43V87.42C160.17 87.3 161.12 86.68 161.12 84.05V62.16C161.12 59.53 160.16 58.91 156.43 58.78ZM166.49 59.39V83.15C166.49 86.03 167.29 86.91 171.14 86.91C179.31 86.91 183.88 81.51 183.88 73.31C183.88 64.6 178.91 59.39 169.77 59.39Z"/>
+    <path fill-rule="evenodd" d="M213.35 74.2H196.86C196.67 80.59 200.05 85.42 205.61 85.42C209.01 85.42 211.65 83.81 213.47 81.15L214.18 81.71C212.62 85.66 208.87 89.02 203.32 89.02C196.85 89.02 192.36 84.24 192.36 77.57C192.36 70.64 197.19 65.38 203.68 65.38C209.42 65.38 213.09 68.7 213.35 74.2ZM197.01 72.83H207.68C208.41 72.83 208.62 72.56 208.52 71.84C208.04 68.69 206.36 66.79 203.59 66.79C200.18 66.79 197.78 69.29 197.01 72.83Z"/><path transform="translate(23.7)" fill-rule="evenodd" d="M213.35 74.2H196.86C196.67 80.59 200.05 85.42 205.61 85.42C209.01 85.42 211.65 83.81 213.47 81.15L214.18 81.71C212.62 85.66 208.87 89.02 203.32 89.02C196.85 89.02 192.36 84.24 192.36 77.57C192.36 70.64 197.19 65.38 203.68 65.38C209.42 65.38 213.09 68.7 213.35 74.2ZM197.01 72.83H207.68C208.41 72.83 208.62 72.56 208.52 71.84C208.04 68.69 206.36 66.79 203.59 66.79C200.18 66.79 197.78 69.29 197.01 72.83Z"/>
+    <path d="M240.11 55.36L247.7 53.4L248.26 53.62V76.32L255.98 69.85C258.06 68.05 257.32 67.33 254.71 67.22V66.22H265.2V67.22C262.93 67.32 261.28 68.15 258.62 70.35L253.55 74.54L261.75 84.21C263.52 86.3 264.66 87.24 266.6 87.48V88.46H255.82V87.48C258.19 87.35 258.3 86.64 256.92 84.96L250.06 76.98L248.26 78.46V84.46C248.26 86.72 248.87 87.18 251.67 87.48V88.46H240.09V87.48C243.07 87.2 243.74 86.69 243.74 84.46V59.32C243.74 56.81 243.23 56.35 240.11 56.36Z"/>
+    <path d="M267.37 67.77L274.5 65.37L275.06 65.6V84.6C275.06 86.85 275.82 87.22 278.68 87.48V88.46H267.02V87.48C269.97 87.2 270.65 86.79 270.65 84.6V71.57C270.65 69.39 270.17 68.65 267.37 68.76Z"/>
+    <circle cx="272.71" cy="58.45" r="2.74"/>
+    <path d="M281.17 67.71L288.2 65.37L288.72 65.59V69.45C291.09 66.98 293.87 65.37 297.31 65.37C301.77 65.37 304.63 68.1 304.63 73.5V84.51C304.63 86.76 305.19 87.19 308.34 87.48V88.46H296.62V87.48C299.43 87.2 300.16 86.78 300.16 84.51V74.55C300.16 70.26 298.49 68.21 295.17 68.21C292.84 68.21 290.55 69.51 288.86 71.16V84.51C288.86 86.78 289.38 87.17 292.48 87.48V88.46H280.82V87.48C283.74 87.19 284.44 86.77 284.44 84.51V71.61C284.44 69.37 283.97 68.62 281.17 68.73Z"/>
+  </g>
+</svg>
