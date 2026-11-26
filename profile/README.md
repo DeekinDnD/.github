@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/deekin-logo-dark-theme.svg">
-    <img src="./assets/deekin-logo-light-theme.svg" alt="Deekin" width="340">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark-theme.svg">
+    <img src="./assets/logo-light-theme.svg" alt="Deekin" width="340">
   </picture>
 </p>
 
@@ -9,11 +9,15 @@
   <strong>Покажите мир, который вы описываете.</strong>
 </p>
 
-Deekin помогает мастерам настольных ролевых игр превращать описание сцены в иллюстрацию. Опишите, куда попали герои и что они видят, уточните детали в черновике и покажите готовую сцену на отдельном экране игроков.
+<p align="center">
+  <a href="https://deekin.org/start-soon">Посмотреть сайт</a>
+  &nbsp;·&nbsp;
+  <a href="https://t.me/DeekinDnD">Новости в Telegram</a>
+</p>
 
-**Проект готовится к запуску.** О старте расскажем в Telegram.
+## Что такое Deekin
 
-[Сайт Deekin](https://deekin.org/start-soon) · [Telegram](https://t.me/DeekinDnD)
+Deekin превращает описание мастера настольной ролевой игры в иллюстрацию. Мастер может уточнить детали и показать готовую сцену на отдельном экране игроков.
 
 <h2 align="center">Почему Deekin?</h2>
 
@@ -24,3 +28,7 @@ Deekin помогает мастерам настольных ролевых и�
 **Дикин Скейлсингер (Deekin Scalesinger)** — кобольд-бард из Забытых Королевств, мира Dungeons & Dragons. Его можно встретить в дополнениях *Shadows of Undrentide* и *Hordes of the Underdark* к *Neverwinter Nights*. Дикин мечтал стать великим рассказчиком Фаэруна и слагал песни о подвигах своих спутников.
 
 Мы назвали проект в его честь. Дикин превращал приключения отряда в песни, а наше приложение помогает мастеру превратить рассказ о приключении в иллюстрацию, которую увидит весь стол.
+
+<p align="center">
+  <strong>Deekin готовится к запуску.</strong> О старте расскажем в <a href="https://t.me/DeekinDnD">Telegram</a>.
+</p>
